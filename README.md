@@ -16,6 +16,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 ## Contents
 
 - [Articles](#articles)
+- [Videos](#videos)
 - [Reference Projects](#reference-projects)
 - [Tools](#tools)
 - [Stacks](#stacks)
@@ -29,6 +30,11 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [Test and visualize with InfluxDB, Grafana and K6](https://medium.com/@naoko.reeves/load-test-with-k6-and-visualize-with-influxdb-and-grafana-c6097a6f6d0a) - Setting up load tests and visualizing them using grafana dashboards.
 - [Using k6 with TypeScript](https://medium.com/better-programming/performance-testing-in-typescript-5b5444510b83) - Why writing k6 scripts in TypeScript is a good idea and how to set up your framework.
 - [Open source load testing tool review 2020](https://k6.io/blog/comparing-best-open-source-load-testing-tools) - Detailed comparison of the most popular open source load testing tools.
+
+## Videos
+
+- [Website Performance + Load Testing with K6 (k6.io) in 5 MINUTES!](https://www.youtube.com/watch?v=brasMBAezJY) - Introductory overview of k6, showing how to create a test from a HAR file.
+- [Performance Testing your web app with k6](https://www.youtube.com/watch?v=Hu1K2ZGJ_K4) - A walkthrough of the open-source load and performance regression testing tool, k6, and how to load test your APIs and websites.
 
 ## Reference Projects
 
@@ -46,6 +52,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [k6-to-junit](https://github.com/Mattihew/k6-to-junit) - Tool for converting k6 output to JUnit XML for easy use with CIs.
 - [har-to-k6](https://github.com/loadimpact/har-to-k6) - Tool for converting HAR recordings to k6 test scripts.
 - [postman-to-k6](https://github.com/loadimpact/postman-to-k6) - Tool for converting Postman collections to k6 test scripts.
+- [k6 generator](https://github.com/OpenAPITools/openapi-generator) - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
 - [jmeter-to-k6](https://github.com/loadimpact/jmeter-to-k6) - Tool for converting JMeter test cases to k6 test scripts.
 - [jslib.k6.io](https://jslib.k6.io/) - Useful utility libs for k6 scripts.
 
@@ -53,3 +60,4 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 - [CloudPosse's Load Testing Stack](https://github.com/cloudposse/load-testing) - Load testing stack using k6, Grafana and InfluxDB.
 - [Load Impact's OSS Load Testing Stack](https://github.com/loadimpact/open-source-load-testing-stack) - Open-source stack that works well for running load tests, storing results and visualizing those results in dashboards.
+
