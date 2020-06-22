@@ -1,24 +1,5 @@
 name: CI
 
-<<<<<<< HEAD
-on: [push]
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-    
-    steps:
-    - uses: actions/checkout@v1
-    - uses: actions/setup-node@v1
-      with:
-        node-version: '10.x'
-    - name: Install awesome-lint
-      run: npm init -y && npm install awesome-lint
-        
-    - name: Run awesome-lint
-      run: ./node_modules/.bin/awesome-lint
-=======
 on:
   push: {}
   pull_request: {}
@@ -44,4 +25,3 @@ jobs:
           ./README.md
     - name: run awesome-lint
       run: npx awesome-lint ./README.md
->>>>>>> 2a92344af72cb7aea6a22b4e4cb9795f3620d7cf
