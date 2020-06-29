@@ -15,7 +15,6 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 ## Contents
 
-- [Contents](#contents)
 - [Articles](#articles)
 - [Videos](#videos)
 - [Reference Projects](#reference-projects)
@@ -46,7 +45,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [k6-github-actions-example](https://github.com/loadimpact/k6-github-actions-example) - Running k6 load tests as part of a GitHub Actions build.
 - [k6-azure-pipelines-example](https://github.com/loadimpact/k6-azure-pipelines-example) - Running k6 load tests as part of an Azure DevOps Pipeline.
 - [k6-performance-test-websocket](https://github.com/Julianhm9612/k6-performance-test-websocket) - Example of performance test for websocket with k6.
-- [k6-typescript-template](https://github.com/k6io/template-typescript) - Template to use TypeScript with k6
+- [k6-typescript-template](https://github.com/k6io/template-typescript) - Template to use TypeScript with k6.
 - [k6-es6](https://github.com/MStoykov/k6-es6) - Example project using Webpack, Babel and Browserify to make most ES6 code work in k6.
 - [example-data-generation](https://github.com/k6io/example-data-generation) - Generate realistic data for k6 using faker.
 - [bounded-disturbances](https://github.com/bjartwolf/bounded-disturbances) - A .NET Chaos Engineering workshop. Using Simmy and k6.
@@ -62,7 +61,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [k6 for visual studio code](https://marketplace.visualstudio.com/items?itemName=k6.k6&ssr=false#overview) - Marketplace Extension for running k6 directly from your IDE.
 
 ## CI
-- [k6 for github actions](https://github.com/marketplace/actions/k6-load-test) - Marketplace action for running k6 in GitHub Actions.
+- [k6 for GitHub actions](https://github.com/marketplace/actions/k6-load-test) - Marketplace action for running k6 in GitHub Actions.
 - [k6 for azure devops pipelines](https://marketplace.visualstudio.com/items?itemName=k6.k6-load-test) - Marketplace Extension for running k6 in an Azure Devops Pipeline.
 
 ## Stacks
